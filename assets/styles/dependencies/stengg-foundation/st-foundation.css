@@ -1,0 +1,31 @@
+.st-app .st-header {
+  background-color: #00aff0; }
+
+.st-app .st-header .st-title {
+  font-size: 24px;
+  margin-left: 20px; }
+
+.st-property-value > [md-autocomplete-wrap] {
+  box-shadow: none; }
+
+.st-property-value-number input {
+  border-color: #FFFFFF; }
+
+[md-color-picker] .md-color-picker-input-container .md-color-picker-preview {
+  top: 0px; }
+
+[md-color-picker] .md-color-picker-input-container md-input-container {
+  margin: 0px;
+  padding: 0px;
+  height: 35px; }
+
+[md-color-picker] .md-color-picker-input-container md-input-container input {
+  border: none; }
+
+[md-color-picker] .md-color-picker-input-container button {
+  display: none; }
+
+.md-sidenav-backdrop {
+  display: none; }
+
+/*# sourceMappingURL=st-foundation.css.map */
